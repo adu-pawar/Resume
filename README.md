@@ -1,5 +1,5 @@
 
-<h1>Basic <h1 style="colour:Red">Portfolio</h1></h1 >
+<h1>Basic Portfolio</h1 >
 
 
 This project is a personal profile website built using HTML and CSS.  
